@@ -1,4 +1,4 @@
-### Heyyy!!  👋
+## Heyyy!!  👋
 
 
 # 👨‍💻 Mohamed Fayaz 
@@ -10,15 +10,11 @@
 <a href="https://twitter.com/intent/follow?screen_name=mfayazai"><img align="left" src="https://img.shields.io/twitter/follow/mfayazai.svg?style=social&label=Follow%20@Fayaz" alt="Follow on Twitter"></a>
 </td><td valign="top">
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/mohamed-fayaz?label=Follow&style=social">
+<a href="https://linkedin.com/in/mohamedfayazz"><img align="left" src="https://img.shields.io/badge/LinkedIn-500%2B-blue?style=social&label=Connect%20@LinkedIn" alt="Follow on LinkedIn"></a>
 </td><td valign="top">
 
-<a href="https://linkedin.com/in/mohamedfayazz"><img align="left" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&label=Connect%20@LinkedIn" alt="Follow on LinkedIn"></a>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/mohamed-fayaz?label=Follow&style=social">
 
-
-<a href="https://linkedin.com/your/profile/url" class="social-icon si-rounded si-small si-linkedin">
-  <i class="icon-linkedin"></i>
-</a>
 </td></tr></table>
 
 [![Git Hits](http://hits.dwyl.com/mohamed-fayaz/mohamed-fayaz/mohamed-fayaz.svg)](http://hits.dwyl.com/mohamed-fayaz/mohamed-fayaz/mohamed-fayaz)
