@@ -17,7 +17,7 @@
 
 </td></tr></table>
 
-[![Git Hits](http://hits.dwyl.com/fayaz92/fayaz92/fayaz92.svg)](http://hits.dwyl.com/fayaz92/fayaz92/fayaz92)
+<!--[![Git Hits](http://hits.dwyl.com/fayaz92/fayaz92/fayaz92.svg)](http://hits.dwyl.com/fayaz92/fayaz92/fayaz92)--!>
 
 
 <!--
