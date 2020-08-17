@@ -1,9 +1,6 @@
-## Heyyy!!  👋
+## Heyyy!!  👋 👨‍💻 
 
-
-# 👨‍💻 I am Mohamed (Fayaz) 
-
-<img src="header.jpg">
+<img src="header.png">
 
  
 <table><tr><td valign="top">
