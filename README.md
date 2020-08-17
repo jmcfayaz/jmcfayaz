@@ -1,6 +1,6 @@
 ## Heyyy!!  👋 👨‍💻 
 
-<img src="header.png">
+<img src="https://github.com/jmcfayaz/jmcfayaz/blob/master/header.png">
 
  
 <table><tr><td valign="top">
