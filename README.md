@@ -3,16 +3,21 @@
 
 # 👨‍💻 I am Mohamed (Fayaz) 
 
-- 🔭 I’m currently working at Jetstar Airlines and associated projects
-- 📫 Connect me: 
+<img src="header.jpg">
+
  
 <table><tr><td valign="top">
-<a href="https://twitter.com/intent/follow?screen_name=mfayazai"><img align="left" src="https://img.shields.io/twitter/follow/mfayazai.svg?style=social&label=Follow%20@Twitter" alt="Follow on Twitter"></a>
+<a href="https://twitter.com/intent/follow?screen_name=GrepyLab"><img align="left" src="https://img.shields.io/twitter/follow/GrepyLab.svg?style=social&label=Follow%20@Twitter" alt="Follow on Twitter"></a>
 </td><td valign="top">
 
 <a href="https://linkedin.com/in/mohamedfayazz"><img align="left" src="https://img.shields.io/badge/LinkedIn-500%2B-blue?style=social&label=Connect%20@LinkedIn" alt="Follow on LinkedIn"></a>
 </td><td valign="top">
 
+### GitHub Accounts to follow
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/jmcfayaz?label=Follow&style=social">
+
+
+### GitHub Accounts to follow
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/fayaz92?label=Follow&style=social">
 
 </td></tr></table>
